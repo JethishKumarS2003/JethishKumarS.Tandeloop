@@ -1,6 +1,6 @@
 # TANDEMLOOP Interview Assignment Question
 
-All four problems are solved in JAVA language.
+Solved in JAVA language.
 
 ## Problem-1:
 Create a small calculator which performs operations such as Addition, Subtraction, Multiplication and Division using class.
