@@ -1,4 +1,4 @@
-# TANDEMLOOP's Assignment 
+# TANDEMLOOP Interview Assignment Question
 
 All four problems are solved in JAVA language.
 
